@@ -16,9 +16,11 @@ bash <(curl -Lso- https://git.io/superspeed_uxh)
 bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/superspeed.sh)
 ```
 
-### 节点更新时间
+### 更新时间
 
-2020年06月19日
+节点更新时间：2022年11月28日
+
+脚本更新时间：2022年11月28日
 
 ---
 
